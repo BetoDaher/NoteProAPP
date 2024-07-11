@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "266114165625",
+    "firebase_url": "https://loginapp-e6159-default-rtdb.firebaseio.com",
+    "project_id": "loginapp-e6159",
+    "storage_bucket": "loginapp-e6159.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266114165625:android:ebea30eea0185e9c851da8",
+        "android_client_info": {
+          "package_name": "com.argumento.crudadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266114165625-d8va7039nvq8gfp5djmamq5qcu80vf72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW8yNJ3crDW_naYdewMpxaeqvmxhtMRJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266114165625-d8va7039nvq8gfp5djmamq5qcu80vf72.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266114165625:android:00cf708b0b42d528851da8",
+        "android_client_info": {
+          "package_name": "com.argumento.loginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266114165625-d8va7039nvq8gfp5djmamq5qcu80vf72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW8yNJ3crDW_naYdewMpxaeqvmxhtMRJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266114165625-d8va7039nvq8gfp5djmamq5qcu80vf72.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266114165625:android:13570860ce5df756851da8",
+        "android_client_info": {
+          "package_name": "easy.tuto.notespro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266114165625-d8va7039nvq8gfp5djmamq5qcu80vf72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW8yNJ3crDW_naYdewMpxaeqvmxhtMRJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266114165625-d8va7039nvq8gfp5djmamq5qcu80vf72.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
