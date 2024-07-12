@@ -25,18 +25,18 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Hello."
-            android:textStyle="bold"
+            android:text="Olá!"
+            android:textColor="@color/black"
             android:textSize="32sp"
-            android:textColor="@color/black"/>
+            android:textStyle="bold" />
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Welcome Back"
-            android:textStyle="bold"
+            android:text="Bem vindo de volta!"
+            android:textColor="@color/black"
             android:textSize="36sp"
-            android:textColor="@color/black"/>
+            android:textStyle="bold" />
 
     </LinearLayout>
 
